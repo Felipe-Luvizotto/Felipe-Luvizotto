@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://giffiles.alphacoders.com/345/34556.gif">
+<img width="100%"  src="https://giffiles.alphacoders.com/345/34556.gif">
 
 <p align="center">
 Seja Bem-Vindo Ao Perfil Do Kotaka 👋
@@ -12,16 +12,22 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
       <p align="center">
 - 📫 Contate-me No Discord: 𝐾𝑖𝑦𝑜𝑡𝑎𝑘𝑎#3935
         
+        
+        
 <div>
+  
+  ##
+  
+  
   <p align="center">
   <a href="https://github.com/SrKotaka">
-    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrKotaka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrKotaka&theme=dark">
     </div>
   
   ##
   <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=SrKotaka&theme=dracula"/>
   
   
   ##
