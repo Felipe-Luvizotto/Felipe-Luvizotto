@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo Ao Perfil Do Kotaka 👋
 
 - 🔭 Atualmente Estudante De Programação
-- 🌱 Estudando JavaScript,C#
+- 🌱 Estudando JavaScript,C#,Sql,Arduino
 - 💬 Me Pergunte Sobre: HTML,CSS
 - 📫 Contate-me No Discord: 𝐾𝑖𝑦𝑜𝑡𝑎𝑘𝑎#3935
 
