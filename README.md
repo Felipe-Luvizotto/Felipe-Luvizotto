@@ -1,5 +1,5 @@
 <p align="center">
-<img width="80%"  src="https://giffiles.alphacoders.com/345/34556.gif">
+<img src="https://giffiles.alphacoders.com/345/34556.gif">
 
 <p align="center">
 Seja Bem-Vindo Ao Perfil Do Kotaka 👋
