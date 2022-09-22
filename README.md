@@ -1,4 +1,5 @@
-[![MasterHead](https://giffiles.alphacoders.com/345/34556.gif)](https://github.com/SrKotaka)
+
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/345/34556.gif">
 ### Seja Bem-Vindo Ao Perfil Do Kotaka 👋
 
 - 🔭 Atualmente Estudante De Programação
@@ -15,6 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
  
   ##
   
@@ -24,3 +26,5 @@
   <a href = "https://twitter.com/EditsKiyotaka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
 </div>
+
+
