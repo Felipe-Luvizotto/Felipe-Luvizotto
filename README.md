@@ -10,7 +10,7 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
     <p align="center">
 - 💬 Me Pergunte Sobre: HTML,CSS
       <p align="center">
-- 📫 Contate-me No Discord: 𝐾𝑖𝑦𝑜𝑡𝑎𝑘𝑎#3935
+- 📫 Contate-me No Discord: 𝐾𝑜𝑡𝑎𝑘𝑎#3935
 <div>
   <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Status E Troféus<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
   <p align="center">
