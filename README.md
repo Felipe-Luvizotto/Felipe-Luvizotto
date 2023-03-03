@@ -28,6 +28,7 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.flaticon.com/free-icon/sql-server_5968364">
 </div>
   <div> 
       <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Redes Sociais<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
