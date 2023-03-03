@@ -1,6 +1,6 @@
 <p align="center">
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/953aaa42-9d8c-46c8-9e76-d7cf24da7206/d8uz0ar-43188435-8427-4088-be3d-fd0cd8f1736e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1M2FhYTQyLTlkOGMtNDZjOC05ZTc2LWQ3Y2YyNGRhNzIwNlwvZDh1ejBhci00MzE4ODQzNS04NDI3LTQwODgtYmUzZC1mZDBjZDhmMTczNmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cYcEzCobd-tR1eKjM41AyjGBpLpni6gbMhOOYgeiGMY' alt="banner"></img>
-<h2 align="center"><img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">Bem-Vindo <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center"><img src="https://github.com/SrKotaka/SrKotaka/blob/main/images/laptop.gif" width="50">Bem-Vindo <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 Seja Bem-Vindo Ao Perfil Do Kotaka 👋
 <p align="center">
