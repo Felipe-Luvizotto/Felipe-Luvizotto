@@ -6,7 +6,7 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
 <p align="center">
 - 🔭 Atualmente Estudante De Programação
   <p align="center">
-- 🌱 Estudando C#,Sql,React
+- 🌱 Estudando C# E React
     <p align="center">
 - 💬 Me Pergunte Sobre: HTML,CSS,JavaScript
       <p align="center">
