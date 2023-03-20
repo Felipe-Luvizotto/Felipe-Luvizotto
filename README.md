@@ -8,6 +8,8 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
   <p align="center">
 - 🌱 Estudando Java E React
     <p align="center">
+     - ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C# e SQL
+    <p align="center">
 - 💬 Me Pergunte Sobre: HTML,CSS,JavaScript
       <p align="center">
 - 📫 Contate-me No Discord: 𝐾𝑜𝑡𝑎𝑘𝑎#3935
