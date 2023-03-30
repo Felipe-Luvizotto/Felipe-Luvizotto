@@ -6,7 +6,7 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
 <p align="center">
 - 🔭 Atualmente Estudante De Programação
   <p align="center">
-- 🌱 Estudando Java E React
+- 🌱 Estudando Java,React e Estrutura de dados
     <p align="center">
      - ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C# e SQL
     <p align="center">
