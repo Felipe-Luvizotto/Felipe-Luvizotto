@@ -17,11 +17,7 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
   <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Status E Troféus<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
   
   <p align="center">
-    
   <a href="https://github.com/SrKotaka">
- 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrKotaka&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrKotaka&layout=compact&langs_count=7&theme=dark&include_all_commits=true"/>
   </div>
   <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=SrKotaka&theme=dracula"/>
