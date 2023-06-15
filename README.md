@@ -6,9 +6,9 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
 <p align="center">
 - 🔭 Atualmente Estudante De Programação
   <p align="center">
-- 🌱 Estudando Java e React
+- 🌱 Estudando C#
     <p align="center">
-     - ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C# e SQL
+     - ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,React e SQL
     <p align="center">
 - 💬 Me Pergunte Sobre: HTML,CSS,JavaScript
       <p align="center">
