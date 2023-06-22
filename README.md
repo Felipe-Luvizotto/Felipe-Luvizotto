@@ -6,7 +6,7 @@ Seja Bem-Vindo Ao Perfil Do Kotaka 👋
 <p align="center">
 - 🔭 Atualmente Estudante De Programação
   <p align="center">
-- 🌱 Estudando C#
+- 🌱 Estudando Python,Typescript e C#
     <p align="center">
      - ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,React e SQL
     <p align="center">
