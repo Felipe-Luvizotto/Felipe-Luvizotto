@@ -3,7 +3,7 @@
 <p align="center">- 👋 Seja Bem-Vindo Ao Perfil Do Kotaka</p>
 <p align="center">- 🔭 Atualmente Estudante De Programação</p>
 <p align="center">- 🌱 Estudando Python,Typescript e C#</p>
-<p align="center">- ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,React e SQL</p>
+<p align="center">- ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,NodeJS,React e SQL</p>
 <p align="center">- 💬 Me Pergunte Sobre: HTML,CSS,JavaScript</p>
 <p align="center">- 📫 Contate-me No Discord: 𝐾𝑜𝑡𝑎𝑘𝑎#3935</p>
 
