@@ -5,7 +5,7 @@
 <p align="center">- 👋 Seja Bem-Vindo Ao Perfil Do Kotaka</p>
 <p align="center">- 🔭 Atualmente Estudante De Programação</p>
 <p align="center">- 🌱 Estudando Python,Typescript e C#</p>
-<p align="center">- ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,NodeJS,React e SQL</p>
+<p align="center">- ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,NodeJS,React,Nodemon e SQL</p>
 <p align="center">- 💬 Me Pergunte Sobre: HTML,CSS,JavaScript</p>
 <p align="center">- 📫 Contate-me No Discord: xskotaka_</p>
 
@@ -29,6 +29,7 @@
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img height="30" width="25" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
