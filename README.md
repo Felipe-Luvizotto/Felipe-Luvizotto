@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrKotaka&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrKotaka&layout=compact&langs_count=10&theme=dark)
 
 </div>
 
