@@ -8,7 +8,7 @@
 <p align="center">- ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,NodeJS,React,Nodemon e SQL</p>
 <p align="center">- 💬 Me Pergunte Sobre: HTML,CSS,JavaScript</p>
 <p align="center">- 📫 Contate-me No Discord: xskotaka_</p>
-<p align="center">- 🌐 Dono Do Site: kotakasite.com</p>
+<p align="center">- 🌐 Dono Do Site: Secreto Por Enquanto</p>
 
 ##
 
