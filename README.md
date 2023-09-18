@@ -5,7 +5,7 @@
 <p align="center">- 👋 Seja Bem-Vindo Ao Perfil Do Kotaka</p>
 <p align="center">- 🔭 Atualmente Estudante De Programação</p>
 <p align="center">- 🌱 Estudando Python,Typescript e Kotlin</p>
-<p align="center">- ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,NodeJS,React,Nodemon,ASP .Net e SQL</p>
+<p align="center">- ✅ Tecnico Completado: Html,Css,JavaScript,Arduino,C#,Java,NodeJS,React,Nodemon,ASP.Net e SQL</p>
 <p align="center">- 💬 Me Pergunte Sobre: HTML,CSS,JavaScript</p>
 <p align="center">- 📫 Contate-me No Discord: xskotaka_</p>
 <p align="center">- 🌐 Dono Do Site: https://kotakasite.com</p>
