@@ -4,8 +4,8 @@
 
 <p align="center">- 👋 Welcome To Kotaka Profile</p>
 <p align="center">- 🔭 Currently Studying Programming</p>
-<p align="center">- ✅ Complete: Typescript, Javascript, Html, Css, C#, Arduino, Swift, React, Java, Nodejs, Python, Sql, Kotlin and Unity</p>
-<p align="center">- 🖥️ Distribution: Windows, Ubuntu and Kali</p>
+<p align="center">- ✅ Complete: Typescript, Javascript, Html, Css, C#, Arduino, SwiftUI, React, Java, Nodejs, Python, Sql, Kotlin and Unity</p>
+<p align="center">- 🖥️ Distributions I Program: Windows,MacOS, Ubuntu and Kali</p>
 <p align="center">- 📫 Contact-me On Discord: xskotaka_</p>
 <p align="center">- 🌐 My Website: https://kotakasite.com</p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali" />
   </a>
 </p>
 
