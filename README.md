@@ -4,7 +4,7 @@
 
 <p align="center">- 👋 Welcome To Felipe Profile</p>
 <p align="center">- 🔭 Currently Studying Programming</p>
-<p align="center">- ✅ Complete: Typescript, Javascript, Html, Css, C#, Arduino, Docker, SwiftUI, React, Java, Nodejs, Python, Sql, Kotlin and Unity</p>
+<p align="center">- ✅ Complete: Typescript, Javascript, Html, Css, C#, Arduino, Docker, SwiftUI, React, Java, Nodejs, Python, Sql, Kotlin, Unity and Flutter</p>
 <p align="center">- 🖥️ Distributions I Program: Windows, MacOS, Ubuntu and Kali</p>
 <p align="center">- 📫 Contact-me On Discord: xskotaka_</p>
 
